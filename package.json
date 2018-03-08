@@ -1,0 +1,10 @@
+{
+    "name": "Aula 1",
+    "description": "projeto criado no curso de nodejs",
+    "author": "Hélio Passareli Neto",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "zipper": "*"
+    }
+}
